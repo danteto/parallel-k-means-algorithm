@@ -150,5 +150,9 @@ int main() {
         printf("\n");
     }
 
+    free(points);
+    free(mean);
+    free(cluster);
+
     return 0;
 }
