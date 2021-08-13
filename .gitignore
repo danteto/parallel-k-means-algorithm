@@ -4,3 +4,6 @@ cmake-build-*/
 # IntelliJ
 /.idea
 out/
+
+#Input files
+input.txt
